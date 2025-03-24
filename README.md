@@ -1,1 +1,3 @@
-# resume_project
+RESUME
+HTML
+HTML+CSS
